@@ -1,3 +1,13 @@
+# @discere-os/cgal.wasm
+
+WebAssembly port of CGAL - The Computational Geometry Algorithms Library providing efficient and reliable algorithms in computational geometry.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/cgal-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/cgal.wasm)](https://jsr.io/@discere-os/cgal.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fcgal.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fcgal.wasm)
+[![License](https://img.shields.io/badge/License-GPL--3.0%20OR%20LGPL--3.0-blue.svg)](LICENSE.md)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 ![CGAL](Installation/doc_html/images/cgal_2013_grey.png)
 
 The Computational Geometry Algorithms Library (CGAL) is a C++ library that
